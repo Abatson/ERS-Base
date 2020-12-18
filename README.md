@@ -1,2 +1,3 @@
 # ERS-Base
-<embed src="/ERS_Requirements.pdf" type="application/pdf"></embed>
+<object data="/ERS_Requirements.pdf" type="application/pdf" width="100%"> 
+</object>
